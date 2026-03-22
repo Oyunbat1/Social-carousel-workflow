@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "date": "2026-03-22 14:29",
+    "video_url": "https://youtu.be/69rTDamzan8?si=NRnj8Vm8rwOU8Yrw",
+    "video_title": "TikTok, Google, Meta-д ажилласан туршлага - Ц.Цэнгүүн | NU Tech Podcast #27",
+    "output_folder": "output/TikTok,_Google,_Meta-д_ажилласан_туршлага_-_Ц.Цэнгүүн_NU_Tec",
+    "slides": [
+      "slide_01.png",
+      "slide_02.png",
+      "slide_03.png",
+      "slide_04.png",
+      "slide_05.png",
+      "slide_06.png"
+    ],
+    "instagram_caption_preview": "🚀 TikTok, Google, Meta-д ажилласан Монгол инженер Ц.Цэнгүүний үнэн түүх!\n\nБарилгын инженерээс дэлхийн топ tech компаниуд…",
+    "facebook_caption_preview": "🎙️ NU Tech Podcast #27 — TikTok, Google, Meta-д ажилласан Монгол инженерийн гэрчлэл\n\nЦ.Цэнгүүн 12 жил Америкт амьдарч, б…",
+    "instagram_post_url": "",
+    "facebook_post_url": "",
+    "status": "generated"
+  },
+  {
+    "id": 2,
+    "date": "2026-03-22 15:21",
+    "video_url": "https://youtu.be/69rTDamzan8?si=vUGOwnrzAsOYWrnR",
+    "video_title": "TikTok, Google, Meta-д ажилласан туршлага - Ц.Цэнгүүн | NU Tech Podcast #27",
+    "output_folder": "output/TikTok,_Google,_Meta-д_ажилласан_туршлага_-_Ц.Цэнгүүн_NU_Tec",
+    "slides": [
+      "slide_01.png",
+      "slide_02.png",
+      "slide_03.png",
+      "slide_04.png",
+      "slide_05.png",
+      "slide_06.png"
+    ],
+    "instagram_caption_preview": "🌍 TikTok, Google, Meta — дэлхийн топ компаниудад ажилласан Монгол инженерийн жинхэнэ түүх!\n\nБарилгын инженерээс гараад, …",
+    "facebook_caption_preview": "🚀 TikTok, Google, Meta-д ажилласан Монгол инженер Ц.Цэнгүүний үнэт туршлага — NU Tech Podcast #27\n\nЦэнгүүн ах барилгын и…",
+    "instagram_post_url": "",
+    "facebook_post_url": "",
+    "status": "generated"
+  }
+]
